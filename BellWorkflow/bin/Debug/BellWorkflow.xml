@@ -1,0 +1,1013 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BellWorkflow</name>
+    </assembly>
+    <members>
+        <member name="T:BellWorkflow.BellWorkflowRepository">
+            <summary>
+            The class representing the BellWorkflowRepository element repository.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.BellWorkflowRepository.#ctor">
+            <summary>
+            Repository class constructor.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepository.Instance">
+            <summary>
+            Gets the singleton class instance representing the BellWorkflowRepository element repository.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepository.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepository.ShareButtonClick">
+            <summary>
+            The ShareButtonClick item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepository.ShareButtonClickInfo">
+            <summary>
+            The ShareButtonClick item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepository.AdobeAcrobatProDCTrunk05242020">
+            <summary>
+            The AdobeAcrobatProDCTrunk05242020 folder.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepository.Acrobat">
+            <summary>
+            The Acrobat folder.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepository.Open">
+            <summary>
+            The Open folder.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepository.ShareLinkWithOthers">
+            <summary>
+            The ShareLinkWithOthers folder.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepository.CloseSharedFile">
+            <summary>
+            The CloseSharedFile folder.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepository.PressSignOutFromProfile">
+            <summary>
+            The PressSignOutFromProfile folder.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepository.AdobeID">
+            <summary>
+            The AdobeID folder.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepository.Blank">
+            <summary>
+            The Blank folder.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepository.SampleFilePdfAdobeAcrobatProDCT">
+            <summary>
+            The SampleFilePdfAdobeAcrobatProDCT folder.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepository.SampleFilePdfOpenedFromAdobeDocume">
+            <summary>
+            The SampleFilePdfOpenedFromAdobeDocume folder.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepository.AdobeLicensing">
+            <summary>
+            The AdobeLicensing folder.
+            </summary>
+        </member>
+        <member name="T:BellWorkflow.BellWorkflowRepositoryFolders">
+            <summary>
+            Inner folder classes.
+            </summary>
+        </member>
+        <member name="T:BellWorkflow.BellWorkflowRepositoryFolders.AdobeAcrobatProDCTrunk05242020AppFolder">
+            <summary>
+            The AdobeAcrobatProDCTrunk05242020AppFolder folder.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.BellWorkflowRepositoryFolders.AdobeAcrobatProDCTrunk05242020AppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new AdobeAcrobatProDCTrunk05242020  folder.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeAcrobatProDCTrunk05242020AppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeAcrobatProDCTrunk05242020AppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeAcrobatProDCTrunk05242020AppFolder.File">
+            <summary>
+            The File item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeAcrobatProDCTrunk05242020AppFolder.FileInfo">
+            <summary>
+            The File item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeAcrobatProDCTrunk05242020AppFolder.AVLAVView">
+            <summary>
+            The AVLAVView item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeAcrobatProDCTrunk05242020AppFolder.AVLAVViewInfo">
+            <summary>
+            The AVLAVView item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeAcrobatProDCTrunk05242020AppFolder.AVLAVView1">
+            <summary>
+            The AVLAVView1 item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeAcrobatProDCTrunk05242020AppFolder.AVLAVView1Info">
+            <summary>
+            The AVLAVView1 item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeAcrobatProDCTrunk05242020AppFolder.AVLAVView2">
+            <summary>
+            The AVLAVView2 item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeAcrobatProDCTrunk05242020AppFolder.AVLAVView2Info">
+            <summary>
+            The AVLAVView2 item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeAcrobatProDCTrunk05242020AppFolder.ClickProfile">
+            <summary>
+            The ClickProfile item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeAcrobatProDCTrunk05242020AppFolder.ClickProfileInfo">
+            <summary>
+            The ClickProfile item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeAcrobatProDCTrunk05242020AppFolder.SomeMenuItem">
+            <summary>
+            The SomeMenuItem item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeAcrobatProDCTrunk05242020AppFolder.SomeMenuItemInfo">
+            <summary>
+            The SomeMenuItem item info.
+            </summary>
+        </member>
+        <member name="T:BellWorkflow.BellWorkflowRepositoryFolders.AcrobatAppFolder">
+            <summary>
+            The AcrobatAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.BellWorkflowRepositoryFolders.AcrobatAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new Acrobat  folder.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AcrobatAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AcrobatAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AcrobatAppFolder.OpenCtrlPlusO">
+            <summary>
+            The OpenCtrlPlusO item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AcrobatAppFolder.OpenCtrlPlusOInfo">
+            <summary>
+            The OpenCtrlPlusO item info.
+            </summary>
+        </member>
+        <member name="T:BellWorkflow.BellWorkflowRepositoryFolders.OpenAppFolder">
+            <summary>
+            The OpenAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.BellWorkflowRepositoryFolders.OpenAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new Open  folder.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.OpenAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.OpenAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.OpenAppFolder.ToolBar1001">
+            <summary>
+            The ToolBar1001 item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.OpenAppFolder.ToolBar1001Info">
+            <summary>
+            The ToolBar1001 item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.OpenAppFolder.SystemItemNameDisplay">
+            <summary>
+            The SystemItemNameDisplay item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.OpenAppFolder.SystemItemNameDisplayInfo">
+            <summary>
+            The SystemItemNameDisplay item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.OpenAppFolder.ButtonOpen">
+            <summary>
+            The ButtonOpen item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.OpenAppFolder.ButtonOpenInfo">
+            <summary>
+            The ButtonOpen item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.OpenAppFolder.ShellView">
+            <summary>
+            The ShellView folder.
+            </summary>
+        </member>
+        <member name="T:BellWorkflow.BellWorkflowRepositoryFolders.ShellViewFolder">
+            <summary>
+            The ShellViewFolder folder.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.BellWorkflowRepositoryFolders.ShellViewFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ShellView  folder.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.ShellViewFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.ShellViewFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.ShellViewFolder.ItemsView">
+            <summary>
+            The ItemsView item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.ShellViewFolder.ItemsViewInfo">
+            <summary>
+            The ItemsView item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.ShellViewFolder.SystemItemNameDisplay1">
+            <summary>
+            The SystemItemNameDisplay1 item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.ShellViewFolder.SystemItemNameDisplay1Info">
+            <summary>
+            The SystemItemNameDisplay1 item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.ShellViewFolder.Name">
+            <summary>
+            The Name item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.ShellViewFolder.NameInfo">
+            <summary>
+            The Name item info.
+            </summary>
+        </member>
+        <member name="T:BellWorkflow.BellWorkflowRepositoryFolders.ShareLinkWithOthersAppFolder">
+            <summary>
+            The ShareLinkWithOthersAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.BellWorkflowRepositoryFolders.ShareLinkWithOthersAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ShareLinkWithOthers  folder.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.ShareLinkWithOthersAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.ShareLinkWithOthersAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.ShareLinkWithOthersAppFolder.EmailIdField">
+            <summary>
+            The EmailIdField item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.ShareLinkWithOthersAppFolder.EmailIdFieldInfo">
+            <summary>
+            The EmailIdField item info.
+            </summary>
+        </member>
+        <member name="T:BellWorkflow.BellWorkflowRepositoryFolders.CloseSharedFileAppFolder">
+            <summary>
+            The CloseSharedFileAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.BellWorkflowRepositoryFolders.CloseSharedFileAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new CloseSharedFile  folder.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.CloseSharedFileAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.CloseSharedFileAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.CloseSharedFileAppFolder.ButtonOK">
+            <summary>
+            The ButtonOK item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.CloseSharedFileAppFolder.ButtonOKInfo">
+            <summary>
+            The ButtonOK item info.
+            </summary>
+        </member>
+        <member name="T:BellWorkflow.BellWorkflowRepositoryFolders.PressSignOutFromProfileAppFolder">
+            <summary>
+            The PressSignOutFromProfileAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.BellWorkflowRepositoryFolders.PressSignOutFromProfileAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new PressSignOutFromProfile  folder.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.PressSignOutFromProfileAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.PressSignOutFromProfileAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.PressSignOutFromProfileAppFolder.AVLAVView">
+            <summary>
+            The AVLAVView item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.PressSignOutFromProfileAppFolder.AVLAVViewInfo">
+            <summary>
+            The AVLAVView item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.PressSignOutFromProfileAppFolder.Close">
+            <summary>
+            The Close item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.PressSignOutFromProfileAppFolder.CloseInfo">
+            <summary>
+            The Close item info.
+            </summary>
+        </member>
+        <member name="T:BellWorkflow.BellWorkflowRepositoryFolders.AdobeIDAppFolder">
+            <summary>
+            The AdobeIDAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.BellWorkflowRepositoryFolders.AdobeIDAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new AdobeID  folder.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeIDAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeIDAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeIDAppFolder.EmailPageEmailField">
+            <summary>
+            The EmailPageEmailField item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeIDAppFolder.EmailPageEmailFieldInfo">
+            <summary>
+            The EmailPageEmailField item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeIDAppFolder.Route">
+            <summary>
+            The Route item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeIDAppFolder.RouteInfo">
+            <summary>
+            The Route item info.
+            </summary>
+        </member>
+        <member name="T:BellWorkflow.BellWorkflowRepositoryFolders.BlankAppFolder">
+            <summary>
+            The BlankAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.BellWorkflowRepositoryFolders.BlankAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new Blank  folder.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.BlankAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.BlankAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="T:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfAdobeAcrobatProDCTAppFolder">
+            <summary>
+            The SampleFilePdfAdobeAcrobatProDCTAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfAdobeAcrobatProDCTAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new SampleFilePdfAdobeAcrobatProDCT  folder.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfAdobeAcrobatProDCTAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfAdobeAcrobatProDCTAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfAdobeAcrobatProDCTAppFolder.ShareButton">
+            <summary>
+            The ShareButton item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfAdobeAcrobatProDCTAppFolder.ShareButtonInfo">
+            <summary>
+            The ShareButton item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfAdobeAcrobatProDCTAppFolder.Emailfield">
+            <summary>
+            The Emailfield item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfAdobeAcrobatProDCTAppFolder.EmailfieldInfo">
+            <summary>
+            The Emailfield item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfAdobeAcrobatProDCTAppFolder.DoneButton">
+            <summary>
+            The DoneButton item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfAdobeAcrobatProDCTAppFolder.DoneButtonInfo">
+            <summary>
+            The DoneButton item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfAdobeAcrobatProDCTAppFolder.ShareFileForViewingOrCommentingAnd">
+            <summary>
+            The ShareFileForViewingOrCommentingAnd item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfAdobeAcrobatProDCTAppFolder.ShareFileForViewingOrCommentingAndInfo">
+            <summary>
+            The ShareFileForViewingOrCommentingAnd item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfAdobeAcrobatProDCTAppFolder.ToolBar1">
+            <summary>
+            The ToolBar1 item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfAdobeAcrobatProDCTAppFolder.ToolBar1Info">
+            <summary>
+            The ToolBar1 item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfAdobeAcrobatProDCTAppFolder.ToolBar">
+            <summary>
+            The ToolBar folder.
+            </summary>
+        </member>
+        <member name="T:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfAdobeAcrobatProDCTAppFolder.ShareButtonInfoClass">
+            <summary>
+            The ShareButtonInfoClass folder.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfAdobeAcrobatProDCTAppFolder.ShareButtonInfoClass.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            ShareButtonInfoClass class constructor.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfAdobeAcrobatProDCTAppFolder.ShareButtonInfoClass.GetScreenshot1">
+            <summary>
+            Gets the Screenshot1 item image.
+            </summary>
+            <returns>The Screenshot1 image.</returns>
+        </member>
+        <member name="M:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfAdobeAcrobatProDCTAppFolder.ShareButtonInfoClass.GetScreenshot1(System.Drawing.Rectangle)">
+            <summary>
+            Gets the Screenshot1 item image.
+            </summary>
+            <param name="cropRect">The bounds of the sub-image to return.</param>
+            <returns>The cropped image.</returns>
+        </member>
+        <member name="T:BellWorkflow.BellWorkflowRepositoryFolders.ToolBarFolder">
+            <summary>
+            The ToolBarFolder folder.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.BellWorkflowRepositoryFolders.ToolBarFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ToolBar  folder.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.ToolBarFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.ToolBarFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.ToolBarFolder.SomeMenuItem">
+            <summary>
+            The SomeMenuItem item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.ToolBarFolder.SomeMenuItemInfo">
+            <summary>
+            The SomeMenuItem item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.ToolBarFolder.SomeMenuItem1">
+            <summary>
+            The SomeMenuItem1 item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.ToolBarFolder.SomeMenuItem1Info">
+            <summary>
+            The SomeMenuItem1 item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.ToolBarFolder.SomeMenuItem2">
+            <summary>
+            The SomeMenuItem2 item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.ToolBarFolder.SomeMenuItem2Info">
+            <summary>
+            The SomeMenuItem2 item info.
+            </summary>
+        </member>
+        <member name="T:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfOpenedFromAdobeDocumeAppFolder">
+            <summary>
+            The SampleFilePdfOpenedFromAdobeDocumeAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfOpenedFromAdobeDocumeAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new SampleFilePdfOpenedFromAdobeDocume  folder.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfOpenedFromAdobeDocumeAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfOpenedFromAdobeDocumeAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfOpenedFromAdobeDocumeAppFolder.AVLAVView">
+            <summary>
+            The AVLAVView item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfOpenedFromAdobeDocumeAppFolder.AVLAVViewInfo">
+            <summary>
+            The AVLAVView item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfOpenedFromAdobeDocumeAppFolder.CopySharedLink">
+            <summary>
+            The CopySharedLink item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfOpenedFromAdobeDocumeAppFolder.CopySharedLinkInfo">
+            <summary>
+            The CopySharedLink item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfOpenedFromAdobeDocumeAppFolder.DoneButton">
+            <summary>
+            The DoneButton item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfOpenedFromAdobeDocumeAppFolder.DoneButtonInfo">
+            <summary>
+            The DoneButton item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfOpenedFromAdobeDocumeAppFolder.AVLAVView1">
+            <summary>
+            The AVLAVView1 item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.SampleFilePdfOpenedFromAdobeDocumeAppFolder.AVLAVView1Info">
+            <summary>
+            The AVLAVView1 item info.
+            </summary>
+        </member>
+        <member name="T:BellWorkflow.BellWorkflowRepositoryFolders.AdobeLicensingAppFolder">
+            <summary>
+            The AdobeLicensingAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.BellWorkflowRepositoryFolders.AdobeLicensingAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new AdobeLicensing  folder.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeLicensingAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeLicensingAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeLicensingAppFolder.SpanTagOK">
+            <summary>
+            The SpanTagOK item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeLicensingAppFolder.SpanTagOKInfo">
+            <summary>
+            The SpanTagOK item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeLicensingAppFolder.SignOut">
+            <summary>
+            The SignOut item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeLicensingAppFolder.SignOutInfo">
+            <summary>
+            The SignOut item info.
+            </summary>
+        </member>
+        <member name="T:BellWorkflow.LaunchAcrobat">
+             <summary>
+            The LaunchAcrobat recording.
+             </summary>
+        </member>
+        <member name="F:BellWorkflow.LaunchAcrobat.repo">
+            <summary>
+            Holds an instance of the BellWorkflowRepository repository.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.LaunchAcrobat.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.LaunchAcrobat.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:BellWorkflow.LaunchAcrobat.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.LaunchAcrobat.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:BellWorkflow.LaunchAcrobat.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.LaunchAcrobat.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:BellWorkflow.OpenFile">
+             <summary>
+            The OpenFile recording.
+             </summary>
+        </member>
+        <member name="F:BellWorkflow.OpenFile.repo">
+            <summary>
+            Holds an instance of the BellWorkflowRepository repository.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.OpenFile.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.OpenFile.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:BellWorkflow.OpenFile.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.OpenFile.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:BellWorkflow.OpenFile.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.OpenFile.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:BellWorkflow.ShareFile">
+             <summary>
+            The ShareFile recording.
+             </summary>
+        </member>
+        <member name="F:BellWorkflow.ShareFile.repo">
+            <summary>
+            Holds an instance of the BellWorkflowRepository repository.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.ShareFile.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.ShareFile.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:BellWorkflow.ShareFile.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.ShareFile.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:BellWorkflow.ShareFile.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.ShareFile.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.ShareFile.NewVariable">
+            <summary>
+            Gets or sets the value of variable NewVariable.
+            </summary>
+        </member>
+        <member name="T:BellWorkflow.SignIn">
+             <summary>
+            The SignIn recording.
+             </summary>
+        </member>
+        <member name="F:BellWorkflow.SignIn.repo">
+            <summary>
+            Holds an instance of the BellWorkflowRepository repository.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.SignIn.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.SignIn.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:BellWorkflow.SignIn.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.SignIn.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:BellWorkflow.SignIn.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.SignIn.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:BellWorkflow.CheckRequest">
+             <summary>
+            The CheckRequest recording.
+             </summary>
+        </member>
+        <member name="F:BellWorkflow.CheckRequest.repo">
+            <summary>
+            Holds an instance of the BellWorkflowRepository repository.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.CheckRequest.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.CheckRequest.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:BellWorkflow.CheckRequest.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.CheckRequest.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:BellWorkflow.CheckRequest.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.CheckRequest.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:BellWorkflow.SignInUser2">
+             <summary>
+            The SignInUser2 recording.
+             </summary>
+        </member>
+        <member name="F:BellWorkflow.SignInUser2.repo">
+            <summary>
+            Holds an instance of the BellWorkflowRepository repository.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.SignInUser2.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.SignInUser2.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:BellWorkflow.SignInUser2.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.SignInUser2.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:BellWorkflow.SignInUser2.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.SignInUser2.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:BellWorkflow.SignOut">
+             <summary>
+            The SignOut recording.
+             </summary>
+        </member>
+        <member name="F:BellWorkflow.SignOut.repo">
+            <summary>
+            Holds an instance of the BellWorkflowRepository repository.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.SignOut.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.SignOut.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:BellWorkflow.SignOut.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.SignOut.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:BellWorkflow.SignOut.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.SignOut.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="T:__RxMain.__RxProgram">
+            <summary>
+            Modified Program class that ensures that the Ranorex System gets initialized and cleaned up
+            correctly. This file is auto-generated during project build. This class will invoke the
+            original 'Main' method implementation as needed.
+            </summary>
+        </member>
+        <member name="M:__RxMain.__RxProgram.Main(System.String[])">
+            <summary>
+            The entry point of the application.
+            </summary>
+            <param name="args">Contains any number of command line arguments.</param>
+            <returns>The return value of the projects original 'Main' implementation.</returns>
+        </member>
+    </members>
+</doc>

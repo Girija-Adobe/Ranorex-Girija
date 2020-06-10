@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="BellWorkflow"
+      id="a58ca17e-3e88-4957-95ee-637702ad1f2f"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="BellWorkflow"
+      id="a58ca17e-3e88-4957-95ee-637702ad1f2f"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

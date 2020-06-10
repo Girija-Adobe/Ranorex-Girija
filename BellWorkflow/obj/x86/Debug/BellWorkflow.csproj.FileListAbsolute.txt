@@ -1,0 +1,11 @@
+C:\LocalGit\BellWorkflow\BellWorkflow\bin\Debug\BellWorkflow.rxtmg
+C:\LocalGit\BellWorkflow\BellWorkflow\bin\Debug\BellWorkflow.rxtst
+C:\LocalGit\BellWorkflow\BellWorkflow\bin\Debug\RepositoryImages\BellWorkflowRepository1d75cf94.rximgres
+C:\LocalGit\BellWorkflow\BellWorkflow\bin\Debug\BellWorkflow.exe.config
+C:\LocalGit\BellWorkflow\BellWorkflow\bin\Debug\BellWorkflow.xml
+C:\LocalGit\BellWorkflow\BellWorkflow\bin\Debug\BellWorkflow.exe
+C:\LocalGit\BellWorkflow\BellWorkflow\bin\Debug\BellWorkflow.pdb
+C:\LocalGit\BellWorkflow\BellWorkflow\bin\Debug\Ranorex.Core.Resolver.dll
+C:\LocalGit\BellWorkflow\BellWorkflow\obj\x86\Debug\BellWorkflow.csprojResolveAssemblyReference.cache
+C:\LocalGit\BellWorkflow\BellWorkflow\obj\x86\Debug\BellWorkflow.exe
+C:\LocalGit\BellWorkflow\BellWorkflow\obj\x86\Debug\BellWorkflow.pdb
