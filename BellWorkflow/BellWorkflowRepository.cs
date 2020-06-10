@@ -227,6 +227,7 @@ namespace BellWorkflow
             RepoItemInfo _avlavview2Info;
             RepoItemInfo _clickprofileInfo;
             RepoItemInfo _somemenuitemInfo;
+            RepoItemInfo _avlavview3Info;
 
             /// <summary>
             /// Creates a new AdobeAcrobatProDCTrunk05242020  folder.
@@ -240,6 +241,7 @@ namespace BellWorkflow
                 _avlavview2Info = new RepoItemInfo(this, "AVLAVView2", "element[@instance='1']/element[@instance='0']/element[@instance='1']", 30000, null, "3b914ddd-8e08-4ee4-8c51-916461852aa7");
                 _clickprofileInfo = new RepoItemInfo(this, "ClickProfile", "element[@instance='0']", 30000, null, "68dfc908-148c-4019-8b78-6ef8800aec0d");
                 _somemenuitemInfo = new RepoItemInfo(this, "SomeMenuItem", ".//toolbar[@accessiblerole='ToolBar']/menuitem[@accessiblename='🗙']", 30000, null, "0d1f555e-7a0c-4eee-a02e-e57cc682adaa");
+                _avlavview3Info = new RepoItemInfo(this, "AVLAVView3", "element[@instance='1']/element/element[@instance='0']/element[@instance='1']/element[@class='AVL_AVView']", 30000, null, "2f319dc7-830f-4749-90e4-daad4204fae5");
             }
 
             /// <summary>
@@ -407,6 +409,30 @@ namespace BellWorkflow
                 get
                 {
                     return _somemenuitemInfo;
+                }
+            }
+
+            /// <summary>
+            /// The AVLAVView3 item.
+            /// </summary>
+            [RepositoryItem("2f319dc7-830f-4749-90e4-daad4204fae5")]
+            public virtual Ranorex.Unknown AVLAVView3
+            {
+                get
+                {
+                    return _avlavview3Info.CreateAdapter<Ranorex.Unknown>(true);
+                }
+            }
+
+            /// <summary>
+            /// The AVLAVView3 item info.
+            /// </summary>
+            [RepositoryItemInfo("2f319dc7-830f-4749-90e4-daad4204fae5")]
+            public virtual RepoItemInfo AVLAVView3Info
+            {
+                get
+                {
+                    return _avlavview3Info;
                 }
             }
         }
@@ -956,6 +982,8 @@ namespace BellWorkflow
         {
             RepoItemInfo _emailpageemailfieldInfo;
             RepoItemInfo _routeInfo;
+            RepoItemInfo _continueInfo;
+            RepoItemInfo _canvasgridInfo;
 
             /// <summary>
             /// Creates a new AdobeID  folder.
@@ -965,6 +993,8 @@ namespace BellWorkflow
             {
                 _emailpageemailfieldInfo = new RepoItemInfo(this, "EmailPageEmailField", ".//input[#'EmailPage-EmailField']", 30000, null, "604aed11-588a-4998-9d87-b14affd4c37c");
                 _routeInfo = new RepoItemInfo(this, "Route", ".//div[#'App']//section/section/?/?/div", 30000, null, "d6e18532-16c4-434c-b51e-11b1f66bf0ba");
+                _continueInfo = new RepoItemInfo(this, "Continue", ".//form[#'EmailForm']/section[2]//span[@innertext='Continue']", 30000, null, "c4a5c6ea-acdd-4665-8c94-8a73c8da8d55");
+                _canvasgridInfo = new RepoItemInfo(this, "CanvasGrid", ".//div[#'App']//section/section", 30000, null, "773135d2-a3f9-43bc-a57f-075741e24c75");
             }
 
             /// <summary>
@@ -1036,6 +1066,54 @@ namespace BellWorkflow
                 get
                 {
                     return _routeInfo;
+                }
+            }
+
+            /// <summary>
+            /// The Continue item.
+            /// </summary>
+            [RepositoryItem("c4a5c6ea-acdd-4665-8c94-8a73c8da8d55")]
+            public virtual Ranorex.SpanTag Continue
+            {
+                get
+                {
+                    return _continueInfo.CreateAdapter<Ranorex.SpanTag>(true);
+                }
+            }
+
+            /// <summary>
+            /// The Continue item info.
+            /// </summary>
+            [RepositoryItemInfo("c4a5c6ea-acdd-4665-8c94-8a73c8da8d55")]
+            public virtual RepoItemInfo ContinueInfo
+            {
+                get
+                {
+                    return _continueInfo;
+                }
+            }
+
+            /// <summary>
+            /// The CanvasGrid item.
+            /// </summary>
+            [RepositoryItem("773135d2-a3f9-43bc-a57f-075741e24c75")]
+            public virtual Ranorex.SectionTag CanvasGrid
+            {
+                get
+                {
+                    return _canvasgridInfo.CreateAdapter<Ranorex.SectionTag>(true);
+                }
+            }
+
+            /// <summary>
+            /// The CanvasGrid item info.
+            /// </summary>
+            [RepositoryItemInfo("773135d2-a3f9-43bc-a57f-075741e24c75")]
+            public virtual RepoItemInfo CanvasGridInfo
+            {
+                get
+                {
+                    return _canvasgridInfo;
                 }
             }
         }

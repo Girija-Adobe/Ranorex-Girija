@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="6ce50ca2-1841-4319-bad3-c4e92f67d8a0"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="GitCheckGirija"
+	namespace="BellWorkflow">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<mouseitem
+		action="Down"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="20;9"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="456ebb5a-f8b3-4f50-91da-52ae7ccfb94a"
+		sx="1117"
+		sy="478"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="c4a5c6ea-acdd-4665-8c94-8a73c8da8d55"
+			sourcename="Recorder">
+				<element
+				capabilities="webelement, spantag"
+				dontcache="True"
+				enabled="True"
+				flavor="web"
+				hasfocus="False"
+				index="0"
+				prefcap="spantag"
+				rect="1097,469,53,18"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="class"
+					type="System.String">
+						spectrum-Button-label
+					</attribute>
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+						Continue
+					</attribute>
+					<attribute
+					name="safeclass"
+					type="System.String">
+						spectrum-Button-label
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						span
+					</attribute>
+				</element>
+				<path>
+					/dom[@domain='auth.services.adobe.com']//form[#'EmailForm']/section[2]//span[@innertext='Continue']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="6b848ac9-8f13-4e19-acaf-ed99f830c93f">
+				/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDABwTFRgVERwYFhgfHRwhKUUtKSYmKVQ8QDJFZFhpZ2JY
+YF9ufJ6GbnWWd19giruLlqOpsbOxa4TC0MGszp6usar/2wBDAR0fHykkKVEtLVGqcmByqqqqqqqq
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqr/wAARCAA0AGkDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDpKKKR
+mVFLMQFHJJoAWism51tVJFvHux/E3T8qr/25cf3IvyP+NW4Nb6BG8vhTfojeorA/ty4/uRfkf8aP
+7cuP7kX5H/GlyruvvK5Kn8r+5m/RWB/blx/ci/I/40f25cf3IvyP+NHKu6+8OSp/K/uZv0Vgf25c
+f3IvyP8AjR/blx/ci/I/40cq7r7w5Kn8r+5m/RWLDrj7v3sSlf8AY4x+datvcR3MYeJsjuO4+tDg
+0r9CL62e5LRRRUjCsbXLk71tlPygbm9z2FbNc5rAI1KTPcDH5CtqKTkZVXaJSPSpra0edGcFERer
+ucCoT0q9bmOfTTbmVIpFk3jecBh9a0n/ABF6fqVTbWHdu/6MqSxiOQpuR8fxIcg0zA9K1rRlghEc
+dxCkiyAyEsMMvse9Lc3X7iNLGdYmkuNvABIBOM4Pam5JfZM05P7RnJau6o52pG7bQ7HAzUTKFcrk
+HBxkdDW1b3Lx7Le5dIZYpMupOFZDnBXPUfyxzRHdIrW6CZAjPJ5gyOmTjNJST1sN8y+0zEwPSjA9
+K24HgL2jieJVh3ghnweeBTUuIVsFCeWw2EOjSbST9Mc1V1/KTeX8xir0q3p1yba7U5+RjtYe1VF6
+U5QSwA6k0UVekkzTFO2Ik/M6+iiiuM0Cs3WLNp0E0Yy6DBA7itKiqjJxd0KS5lZnHnpSAkDpXT3G
+nW1wSzJtY9WU4qv/AGJbf35fzH+FbSmpPmTsxQ9yLhKN1e5gZPpT7c/6Xb8f8to//QhW5/Ylt/fl
+/Mf4Uf2LbgqyyzKysGBBHBByO1S5u3xfgh+50pr72GsiyktsXMojdH2o6gsyMRnGB6jtXPqxK8jn
+pkZ59+a2ZtFaNJUtX3iZCJPOkwdwOVbIHJBzU/8AYlt/fl/Mf4UoSt1sLS93G5gZPpRk+lb/APYl
+t/fl/Mf4Uf2Jbf35fzH+FVzv+d/ch+5/z7X3swF6VpaRZtLOs7jEaHI9zWjFpFrG2SGk/wB4/wCF
+XgAoAUAAdAKPaKMOSJMk6lRzl1CiiisCwooooAKKKKACiiigAooooAKKKKACiiigAooooA//2Q==
+			</helperscreenshot>
+		</mouseitem>
+		<mouseitem
+		action="Move"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="28;1"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="8901b018-450a-4e83-bb0d-8883cecd5df7"
+		sx="1117"
+		sy="478"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="c4a5c6ea-acdd-4665-8c94-8a73c8da8d55"
+			sourcename="Recorder">
+				<element
+				capabilities="webelement, spantag"
+				dontcache="True"
+				enabled="True"
+				flavor="web"
+				hasfocus="False"
+				index="0"
+				prefcap="spantag"
+				rect="1097,469,53,18"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="class"
+					type="System.String">
+						spectrum-Button-label
+					</attribute>
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+						Continue
+					</attribute>
+					<attribute
+					name="safeclass"
+					type="System.String">
+						spectrum-Button-label
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						span
+					</attribute>
+				</element>
+				<path>
+					/dom[@domain='auth.services.adobe.com']//form[#'EmailForm']/section[2]//span[@innertext='Continue']
+				</path>
+			</info>
+		</mouseitem>
+		<mouseitem
+		action="Up"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="690;380"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="141bb1f6-e9fb-4caf-b377-2843274d7243"
+		sx="1250"
+		sy="557"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="773135d2-a3f9-43bc-a57f-075741e24c75"
+			sourcename="Recorder">
+				<element
+				capabilities="webelement, sectiontag"
+				dontcache="True"
+				enabled="True"
+				flavor="web"
+				hasfocus="False"
+				index="0"
+				prefcap="sectiontag"
+				rect="560,177,800,720"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="class"
+					type="System.String">
+						Canvas-Grid
+					</attribute>
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="safeclass"
+					type="System.String">
+						Canvas-Grid
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						section
+					</attribute>
+				</element>
+				<path>
+					/dom[@domain='auth.services.adobe.com']//div[#'App']//section/section
+				</path>
+			</info>
+		</mouseitem>
+	</recorditems>
+	<repository
+	id="bcf98a07-7cd9-4a1c-8198-316ccf9a72da"
+	name="BellWorkflowRepository"
+	relativepath="BellWorkflowRepository.rxrep">
+		<codegen
+		classname="BellWorkflowRepository"
+		namespace="BellWorkflow">
+		</codegen>
+		<rootfolder
+		id="1d75cf94-0982-4020-b055-83f8bed454c0"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		GitCheckGirija.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

@@ -81,6 +81,16 @@ name="BellWorkflowRepository">
 			searchtimeout="30000ms">
 				/form[@title&gt;'Adobe Acrobat Pro DC (Tru']//toolbar[@accessiblerole='ToolBar']/menuitem[@accessiblename='🗙']
 			</item>
+			<item
+			addcaps="unknown,nativewindow"
+			capname="unknown"
+			id="2f319dc7-830f-4749-90e4-daad4204fae5"
+			name="AVLAVView3"
+			refimgid="ebad1ea7-904a-4b8a-a1f1-edf414e82078"
+			refpath="/form[@title>'Adobe Acrobat Pro DC (Tru']/element[@class='AVL_AVView' and @instance='1']/element/element[@class='AVL_AVView' and @instance='0']/element[@class='AVL_AVView' and @instance='1']/element[@class='AVL_AVView']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'Adobe Acrobat Pro DC (Tru']/element[@instance='1']/element/element[@instance='0']/element[@instance='1']/element[@class='AVL_AVView']
+			</item>
 			<basepath>
 				/form[@title&gt;'Adobe Acrobat Pro DC (Tru']
 			</basepath>
@@ -430,6 +440,26 @@ sWyGfliWRQAAAABJRU5ErkJggg==
 			searchtimeout="30000ms">
 				/dom[@domain='auth.services.adobe.com']//div[#'App']//section/section/?/?/div
 			</item>
+			<item
+			addcaps="unknown,webelement,spantag"
+			capname="spantag"
+			id="c4a5c6ea-acdd-4665-8c94-8a73c8da8d55"
+			name="Continue"
+			refimgid="6cddac59-86c7-443b-adcf-dca8e448b36f"
+			refpath="/dom[@domain='auth.services.adobe.com']//form[#'EmailForm']/section[2]/div[2]/button[2]/span[@innertext='Continue']"
+			searchtimeout="30000ms">
+				/dom[@domain='auth.services.adobe.com']//form[#'EmailForm']/section[2]//span[@innertext='Continue']
+			</item>
+			<item
+			addcaps="unknown,webelement,sectiontag"
+			capname="sectiontag"
+			id="773135d2-a3f9-43bc-a57f-075741e24c75"
+			name="CanvasGrid"
+			refimgid="90848550-55ed-4bcd-a315-c6a09ce9b195"
+			refpath="/dom[@domain='auth.services.adobe.com']//div[#'App']/div/div/section/section"
+			searchtimeout="30000ms">
+				/dom[@domain='auth.services.adobe.com']//div[#'App']//section/section
+			</item>
 			<basepath>
 				/dom[@domain='auth.services.adobe.com']
 			</basepath>
@@ -455,7 +485,7 @@ F/cXNG0rDkAnVtkAAAAASUVORK5CYII=
 		id="b9446456-d3a8-4735-9e26-e170de263e42"
 		isrooted="True"
 		name="Blank"
-		refimgid="2f6aba38-44a1-4c6f-bc17-2de7e0df9f17"
+		refimgid="a2241def-6b78-4093-9255-6892167a8341"
 		refpath="/dom[@domain='']"
 		searchtimeout="30000ms"
 		usecache="False">

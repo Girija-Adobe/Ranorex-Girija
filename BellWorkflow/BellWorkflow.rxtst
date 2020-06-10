@@ -3,6 +3,12 @@
 	<testsuiteentryhierarchy>
 		<flatlistofchildren>
 			<testmodule
+			id="1c88c0d3-f35f-484c-843e-9457e83dd9cb"
+			name="GitCheckGirija"
+			ref="6ce50ca2-1841-4319-bad3-c4e92f67d8a0"
+			type="Recording">
+			</testmodule>
+			<testmodule
 			id="36aae609-319e-4ef4-b684-2b7e41f85d50"
 			name="LaunchAcrobat"
 			ref="3a8df644-b210-4783-a5c4-a0bf12e40079"
@@ -130,6 +136,10 @@
 						<testmodule
 						id="587144ab-7d16-4a0f-9537-c3cd1b35cebb"
 						name="SignOut">
+						</testmodule>
+						<testmodule
+						id="1c88c0d3-f35f-484c-843e-9457e83dd9cb"
+						name="GitCheckGirija">
 						</testmodule>
 					</testcase>
 				</testcase>

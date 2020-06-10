@@ -132,6 +132,18 @@
       <RepositoryCode>true</RepositoryCode>
       <id>c0e87287-6d11-4f32-a4cb-8fbdcd28a6ca</id>
     </Compile>
+    <Compile Include="GitCheckGirija.cs">
+      <BoundTo>9692c815-7e3a-42e2-8ff7-e458d2246dcb</BoundTo>
+      <DependentUpon>GitCheckGirija.rxrec</DependentUpon>
+      <RecorderCode>true</RecorderCode>
+      <id>c4ecf256-a205-4ebc-8dcc-e3bdd8101eef</id>
+    </Compile>
+    <Compile Include="GitCheckGirija.UserCode.cs">
+      <BoundTo>9692c815-7e3a-42e2-8ff7-e458d2246dcb</BoundTo>
+      <DependentUpon>GitCheckGirija.rxrec</DependentUpon>
+      <UserCode>true</UserCode>
+      <id>7fe629fd-6a2d-42d4-95be-5d8197a3e8c2</id>
+    </Compile>
     <Compile Include="Program.cs">
       <id>d74c29d8-51cf-4975-8603-0a35c14b26ed</id>
     </Compile>
@@ -234,6 +246,11 @@
       <id>cec0770e-68b9-4ad7-a966-ff1526af844c</id>
       <repoid>bcf98a07-7cd9-4a1c-8198-316ccf9a72da</repoid>
       <reporootid>1d75cf94-0982-4020-b055-83f8bed454c0</reporootid>
+    </None>
+    <None Include="GitCheckGirija.rxrec">
+      <BoundTo>cec0770e-68b9-4ad7-a966-ff1526af844c</BoundTo>
+      <id>9692c815-7e3a-42e2-8ff7-e458d2246dcb</id>
+      <recordtableid>6ce50ca2-1841-4319-bad3-c4e92f67d8a0</recordtableid>
     </None>
     <None Include="LaunchAcrobat.rxrec">
       <BoundTo>cec0770e-68b9-4ad7-a966-ff1526af844c</BoundTo>
