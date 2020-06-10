@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="3a8df644-b210-4783-a5c4-a0bf12e40079"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="LaunchAcrobat"
+	namespace="BellWorkflow">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+		<explicitdelayitem
+		duration="10000ms"
+		enabled="True"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+		</explicitdelayitem>
+		<runapprecorditem
+		enabled="True"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<filename>
+				C:\Program Files (x86)\Adobe\Acrobat Trunk\Acrobat\Acrobat.exe
+			</filename>
+			<workingdir>
+				C:\Program Files (x86)\Adobe\Acrobat Trunk\Acrobat
+			</workingdir>
+			<args>
+			</args>
+		</runapprecorditem>
+	</recorditems>
+	<repository
+	id="bcf98a07-7cd9-4a1c-8198-316ccf9a72da"
+	name="BellWorkflowRepository"
+	relativepath="BellWorkflowRepository.rxrep">
+		<codegen
+		classname="BellWorkflowRepository"
+		namespace="BellWorkflow">
+		</codegen>
+		<rootfolder
+		id="1d75cf94-0982-4020-b055-83f8bed454c0"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		LaunchAcrobat.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

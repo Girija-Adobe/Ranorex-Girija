@@ -1,0 +1,849 @@
+﻿<repository
+id="bcf98a07-7cd9-4a1c-8198-316ccf9a72da"
+name="BellWorkflowRepository">
+	<codegen
+	classname="BellWorkflowRepository"
+	namespace="BellWorkflow">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="1d75cf94-0982-4020-b055-83f8bed454c0"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="99cb748a-083a-4e8b-9d35-fade975a3cb1"
+		isrooted="True"
+		name="AdobeAcrobatProDCTrunk05242020"
+		refpath="/form[@title='Adobe Acrobat Pro DC (Trunk)-05/24/2020']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="menuitem,accessible"
+			capname="menuitem"
+			id="7c1fbdb9-2289-462f-892b-60424dc5d0f2"
+			name="File"
+			refimgid="6eab13ff-b260-4519-a217-77054c076936"
+			refpath="/form[@title>'Adobe Acrobat Pro DC (Tru']/container/element[@controlid='1100']/toolbar/menuitem[@accessiblename='File']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'Adobe Acrobat Pro DC (Tru']/?/?/element[@controlid='1100']/toolbar[@accessiblerole='ToolBar']/menuitem[@accessiblename='File']
+			</item>
+			<item
+			addcaps="unknown,nativewindow"
+			capname="unknown"
+			id="cf6b3495-6b10-4eea-b17a-45946118d959"
+			name="AVLAVView"
+			refimgid="133c696c-47af-4af9-8c8c-4b1e305ad63b"
+			refpath="/form[@title>'SampleFile.pdf - Adobe Acrobat']/element[@class='AVL_AVView' and @instance='1']/element[@class='AVL_AVView' and @instance='0']/element[@class='AVL_AVView' and @instance='0']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'Adobe Acrobat Pro DC (Tru']/element[@instance='1']/element[@instance='0']/element[@instance='0']
+			</item>
+			<item
+			addcaps="unknown,nativewindow"
+			capname="unknown"
+			id="f43eaada-a700-447b-8913-5db5ff00955f"
+			name="AVLAVView1"
+			refimgid="c832d882-7beb-411b-be46-fb3027000b6d"
+			refpath="/form[@title='SampleFile.pdf (Opened from Adobe Document Cloud) - Adobe Acrobat Pro DC (Trunk)-05/24/2020']/element[@class='AVL_AVView' and @instance='1']/element[@class='AVL_AVView' and @instance='0']/element[@class='AVL_AVView' and @instance='4']/element[@class='AVL_AVView' and @instance='0']/element[@class='AVL_AVView' and @instance='0']/element[@class='AVL_AVView' and @instance='0']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'Adobe Acrobat Pro DC (Tru']/element[@instance='1']/?/?/element[@instance='4']/element[@instance='0']/element[@instance='0']/element[@instance='0']
+			</item>
+			<item
+			addcaps="unknown,nativewindow"
+			capname="unknown"
+			id="3b914ddd-8e08-4ee4-8c51-916461852aa7"
+			name="AVLAVView2"
+			refimgid="e9b09575-62a1-4f4e-9d6b-312c83dc851a"
+			refpath="/form[@title>'SampleFile.pdf (Opened from']/element[@class='AVL_AVView' and @instance='1']/element[@class='AVL_AVView' and @instance='0']/element[@class='AVL_AVView' and @instance='1']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'Adobe Acrobat Pro DC (Tru']/element[@instance='1']/element[@instance='0']/element[@instance='1']
+			</item>
+			<item
+			addcaps="unknown,nativewindow"
+			capname="unknown"
+			id="68dfc908-148c-4019-8b78-6ef8800aec0d"
+			name="ClickProfile"
+			refimgid="9961253e-4990-4f82-a78d-df1e7f0f6776"
+			refpath="/form[@title>'Adobe Acrobat Pro DC (Tru']/element[@class='AVL_AVView' and @instance='0']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'Adobe Acrobat Pro DC (Tru']/element[@instance='0']
+			</item>
+			<item
+			addcaps="menuitem,accessible"
+			capname="menuitem"
+			id="0d1f555e-7a0c-4eee-a02e-e57cc682adaa"
+			name="SomeMenuItem"
+			refimgid="cb290571-31b5-4951-8ea8-bcf58eece55c"
+			refpath="/form[@title>'Adobe Acrobat Pro DC (Tru']/container/element[@controlid='1200']/toolbar/menuitem[@accessiblename='🗙']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'Adobe Acrobat Pro DC (Tru']//toolbar[@accessiblerole='ToolBar']/menuitem[@accessiblename='🗙']
+			</item>
+			<basepath>
+				/form[@title&gt;'Adobe Acrobat Pro DC (Tru']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAD/SURBVDhPY4CB//KiBv8VxD78VxT7jxWD5IBq
+oMoxwT9FsQs/Z0/f9/Xr1//Y8M8JPe/+KUl+xmkIyBZsGpHxj4Vzv+E0hBgDQBjsEkXRB1BtCIBu
+wPezp///9bAH08ji3148B4cJVBsCoBvwT1f5/7dbN8GGIIuDMFEG/Opu/f/P2vD/74JMFHEQJsqA
+H5vW//+THA02CFkchIkyAGQzyL8gr/wN9QVjkKEEDfi5dCFYMcj5IM0gcVg4gMQIGgALPJhiEAbZ
+DDLk54zJhA0ARRtIM0wxNozXAGIwdgOAmQXkf2wakDFIDXYDgOn7n5rUN5AkQSwvmgDVRilgYAAA
+ZqQtL10mB5EAAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="contextmenu,nativewindow"
+		capname="contextmenu"
+		id="a0fa3cc0-d2d9-44dc-80f3-df9d9b419e6c"
+		isrooted="True"
+		name="Acrobat"
+		refpath="/contextmenu[@processname='Acrobat']"
+		searchtimeout="30000ms"
+		usecache="False">
+			<item
+			addcaps="menuitem,accessible"
+			capname="menuitem"
+			id="f20cfa22-c48f-4138-9756-4fdf121ec56c"
+			name="OpenCtrlPlusO"
+			refimgid="91f6ef98-23b3-40f1-bf93-f914c251c794"
+			refpath="/contextmenu[@processname='Acrobat']/contextmenu/menuitem[@accessiblename='Open... Ctrl+O']"
+			searchtimeout="30000ms">
+				/contextmenu[@processname='Acrobat']/?/?/menuitem[@accessiblename='Open... Ctrl+O']
+			</item>
+			<basepath>
+				/contextmenu[@processname='Acrobat']
+			</basepath>
+			<icon>
+				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
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="68d94354-495f-41e8-8632-251efb787a6b"
+		isrooted="True"
+		name="Open"
+		refimgid="616820dd-131c-4671-bd21-9e84a8307b70"
+		refpath="/form[@title='Open']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="toolbar,nativewindow"
+			capname="toolbar"
+			id="d92418b2-3c03-4e21-8131-ee16a7362961"
+			name="ToolBar1001"
+			refimgid="2e8afd38-a746-40e4-bc22-0bdc965d2b67"
+			refpath="/form[@title='Open']/element[@class='WorkerW']/container/element[@controlid='41477']/progressbar/element/toolbar[@controlid='1001']"
+			searchtimeout="30000ms">
+				/form[@title='Open']/element[@class='WorkerW']/?/?/element[@controlid='41477']//toolbar[@controlid='1001']
+			</item>
+			<item
+			addcaps="text,uiautomation,uiautomationvalue"
+			capname="text"
+			id="65fd9bee-9743-4495-9d83-c1c94983d551"
+			name="SystemItemNameDisplay"
+			refimgid="44a359f6-2363-4441-af0d-168b026efe08"
+			refpath="/form[@title='Open']/element[@class='DUIViewWndClassName']/container/element[@class='CtrlNotifySink' and @instance='1']/container/container/listitem/text[@automationid='System.ItemNameDisplay']"
+			searchtimeout="30000ms">
+				/form[@title='Open']/element[@class='DUIViewWndClassName']//container[@caption='ShellView']/?/?/listitem[@automationid='0']/text[@automationid='System.ItemNameDisplay']
+			</item>
+			<item
+			addcaps="button,nativewindow"
+			capname="button"
+			id="d4abb799-4b9b-4475-8795-177a17fb11c1"
+			name="ButtonOpen"
+			refimgid="ab40bbb5-b16e-43b4-866c-2635cbc6b9ff"
+			refpath="/form[@title='Open']/button[@text='&amp;Open']"
+			searchtimeout="30000ms">
+				/form[@title='Open']/button[@text='&amp;Open']
+			</item>
+			<folder
+			addcaps="container,nativewindow"
+			capname="container"
+			id="d51b100e-4b57-4b26-810d-9f08476c963e"
+			isrooted="True"
+			name="ShellView"
+			refpath="/form[@title='Open']/element[@class='DUIViewWndClassName']/container[@class='DirectUIHWND']/element[@class='CtrlNotifySink' and @instance='1']/container[@caption='ShellView']"
+			searchtimeout="30000ms"
+			usecache="False">
+				<item
+				addcaps="list,accessible"
+				capname="list"
+				id="db28afc7-fd5a-43ac-bedd-d6b965337142"
+				name="ItemsView"
+				refimgid="462a25b2-3ad8-445f-a35d-b805a8e351ef"
+				refpath="/form[@title='Open']/element[@class='DUIViewWndClassName']/container/element[@class='CtrlNotifySink' and @instance='1']/container/container/list[@accessiblename='Items View']"
+				searchtimeout="30000ms">
+					/form[@title='Open']/element[@class='DUIViewWndClassName']//container[@caption='ShellView']/?/?/list[@accessiblename='Items View']
+				</item>
+				<item
+				addcaps="text,uiautomation,uiautomationvalue"
+				capname="text"
+				id="0053ff64-880c-4816-966b-0933d7c8d0e3"
+				name="SystemItemNameDisplay1"
+				refpath="/form[@title='Open']/element[@class='DUIViewWndClassName']/container/element[@class='CtrlNotifySink' and @instance='1']/container/container/listitem/text"
+				searchtimeout="30000ms">
+					/form[@title='Open']/element[@class='DUIViewWndClassName']//container[@caption='ShellView']/?/?/listitem[@automationid='0']/text
+				</item>
+				<item
+				addcaps="text,uiautomation,uiautomationvalue"
+				capname="text"
+				id="cb5a0e72-c6af-47b9-ac3a-b9bc7c34768b"
+				name="Name"
+				refpath="/form[@title='Open']/element[@class='DUIViewWndClassName']/container/element[@class='CtrlNotifySink' and @instance='1']/container/container/listitem/text[@name='Name']"
+				searchtimeout="30000ms">
+					/form[@title='Open']/element[@class='DUIViewWndClassName']//container[@caption='ShellView']/?/?/listitem[@automationid='0']/text[@name='Name']
+				</item>
+				<basepath>
+					/form[@title='Open']/element[@class='DUIViewWndClassName']//container[@caption='ShellView']
+				</basepath>
+			</folder>
+			<basepath>
+				/form[@title='Open']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAKNSURBVDhPlZLLa1NBFIdn7r1JrLE21rdplTxr
+bBciSNS60OIDXIitReiioC4rLu1KUUFRUWlLwZXShaJL0bSLgg/wf1DUxmjS5v3OvcnNQxx/Jw+J
+xY2BjzsD+X7nnJlhlQFJlPtlUfbIQt8ti1KfIopu4FKE5jAI1W4QBZtB5HcZRW6nUWR7jSJjNYnM
+DpNIb1sjWHmPLDxG5ncb2FKfgflBwKWwH26FBcEy1mEQxTqOb8Kh8JRL5hmQT1GAjsokuwzsK/A7
+FPYNfHciBISwXgERrGP4xu0KTzpknkZALrUVAdQyqpJEcgDU5fETQ3Hfi+fFiXMjaeyjgOSEXeYp
+BDQ6oACal1puk4MgNDE6nLx5+VL28YP7KvYxO9pvVQdZp8wLyS0I0JyKwHyhphhEyDJY2dvdFVn6
+9LE2fmwog/2f1qk6yCFATW5GgIqTRgDNSWJdBjRzNPDlc23AYk6uljFGHgFaYlOHYHRFGCECKUxi
+U46dHfSm52ZnSg+vXdVWy0B1SbxYD6D7RUCMKpII0C5LvJufr5w/dTI/c+N66f3CQnX29i39yfRU
+5WCvVbNLXHNKXI9vRAA9jsb9NsQz3v3ZN69fVT4sLlaHD3jzTkXKHu/3FO5NXtFfPntaGz08WEJA
+ySHxcqwbAdkek6DHgTlTkxcvqFTxrc9XPdRjzbe1XKC2qTLJQLdJvBK1rBWMniQOhObLPLp7R5+b
+niqPHT2i/UMstsugGu1CQHo7OsCfW9UcivSXiFbbxXJTrtk5/xlZjwB6TZDppNXmlw6oCJHm1CGS
+1BKrLRn8CncigF4TPYhEC1wNQSccxyHRQcU2dAial1qOEKgc7jSL8DqzYM2fDYz9B6fBPsaY5TfB
+sWyGfliWRQAAAABJRU5ErkJggg==
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="8d7fbd33-4d95-4811-be74-a2bf9dc1d34f"
+		isrooted="True"
+		name="ShareLinkWithOthers"
+		refimgid="dabaea23-9482-4f1d-9f83-e290915f65f7"
+		refpath="/form[@title='Share link with others']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="unknown,nativewindow"
+			capname="unknown"
+			id="f2c94983-4aa8-46c6-95fe-8679c089b779"
+			name="EmailIdField"
+			refimgid="7f62fe93-2808-4366-9e9b-1515614f4d39"
+			refpath="/form[@title='Share link with others']/element[@class='AVL_AVView']"
+			searchtimeout="30000ms">
+				/form[@title='Share link with others']/element[@class='AVL_AVView']
+			</item>
+			<basepath>
+				/form[@title='Share link with others']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAKNSURBVDhPlZLLa1NBFIdn7r1JrLE21rdplTxr
+bBciSNS60OIDXIitReiioC4rLu1KUUFRUWlLwZXShaJL0bSLgg/wf1DUxmjS5v3OvcnNQxx/Jw+J
+xY2BjzsD+X7nnJlhlQFJlPtlUfbIQt8ti1KfIopu4FKE5jAI1W4QBZtB5HcZRW6nUWR7jSJjNYnM
+DpNIb1sjWHmPLDxG5ncb2FKfgflBwKWwH26FBcEy1mEQxTqOb8Kh8JRL5hmQT1GAjsokuwzsK/A7
+FPYNfHciBISwXgERrGP4xu0KTzpknkZALrUVAdQyqpJEcgDU5fETQ3Hfi+fFiXMjaeyjgOSEXeYp
+BDQ6oACal1puk4MgNDE6nLx5+VL28YP7KvYxO9pvVQdZp8wLyS0I0JyKwHyhphhEyDJY2dvdFVn6
+9LE2fmwog/2f1qk6yCFATW5GgIqTRgDNSWJdBjRzNPDlc23AYk6uljFGHgFaYlOHYHRFGCECKUxi
+U46dHfSm52ZnSg+vXdVWy0B1SbxYD6D7RUCMKpII0C5LvJufr5w/dTI/c+N66f3CQnX29i39yfRU
+5WCvVbNLXHNKXI9vRAA9jsb9NsQz3v3ZN69fVT4sLlaHD3jzTkXKHu/3FO5NXtFfPntaGz08WEJA
+ySHxcqwbAdkek6DHgTlTkxcvqFTxrc9XPdRjzbe1XKC2qTLJQLdJvBK1rBWMniQOhObLPLp7R5+b
+niqPHT2i/UMstsugGu1CQHo7OsCfW9UcivSXiFbbxXJTrtk5/xlZjwB6TZDppNXmlw6oCJHm1CGS
+1BKrLRn8CncigF4TPYhEC1wNQSccxyHRQcU2dAial1qOEKgc7jSL8DqzYM2fDYz9B6fBPsaY5TfB
+sWyGfliWRQAAAABJRU5ErkJggg==
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="f79cd8a7-bb8d-4803-887f-b13195641cdc"
+		isrooted="True"
+		name="CloseSharedFile"
+		refpath="/form[@title='Close shared file']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="button,nativewindow"
+			capname="button"
+			id="8abe8ff8-a32c-4d80-abec-9db278f764f9"
+			name="ButtonOK"
+			refimgid="5def2269-314c-4772-9c08-e8b023d8652b"
+			refpath="/form[@title='Close shared file']/element/button[@text='OK']"
+			searchtimeout="30000ms">
+				/form[@title='Close shared file']/?/?/button[@text='OK']
+			</item>
+			<basepath>
+				/form[@title='Close shared file']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAKNSURBVDhPlZLLa1NBFIdn7r1JrLE21rdplTxr
+bBciSNS60OIDXIitReiioC4rLu1KUUFRUWlLwZXShaJL0bSLgg/wf1DUxmjS5v3OvcnNQxx/Jw+J
+xY2BjzsD+X7nnJlhlQFJlPtlUfbIQt8ti1KfIopu4FKE5jAI1W4QBZtB5HcZRW6nUWR7jSJjNYnM
+DpNIb1sjWHmPLDxG5ncb2FKfgflBwKWwH26FBcEy1mEQxTqOb8Kh8JRL5hmQT1GAjsokuwzsK/A7
+FPYNfHciBISwXgERrGP4xu0KTzpknkZALrUVAdQyqpJEcgDU5fETQ3Hfi+fFiXMjaeyjgOSEXeYp
+BDQ6oACal1puk4MgNDE6nLx5+VL28YP7KvYxO9pvVQdZp8wLyS0I0JyKwHyhphhEyDJY2dvdFVn6
+9LE2fmwog/2f1qk6yCFATW5GgIqTRgDNSWJdBjRzNPDlc23AYk6uljFGHgFaYlOHYHRFGCECKUxi
+U46dHfSm52ZnSg+vXdVWy0B1SbxYD6D7RUCMKpII0C5LvJufr5w/dTI/c+N66f3CQnX29i39yfRU
+5WCvVbNLXHNKXI9vRAA9jsb9NsQz3v3ZN69fVT4sLlaHD3jzTkXKHu/3FO5NXtFfPntaGz08WEJA
+ySHxcqwbAdkek6DHgTlTkxcvqFTxrc9XPdRjzbe1XKC2qTLJQLdJvBK1rBWMniQOhObLPLp7R5+b
+niqPHT2i/UMstsugGu1CQHo7OsCfW9UcivSXiFbbxXJTrtk5/xlZjwB6TZDppNXmlw6oCJHm1CGS
+1BKrLRn8CncigF4TPYhEC1wNQSccxyHRQcU2dAial1qOEKgc7jSL8DqzYM2fDYz9B6fBPsaY5TfB
+sWyGfliWRQAAAABJRU5ErkJggg==
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="b904a0a4-cb78-4c09-b0f1-1b5e2b205903"
+		isrooted="True"
+		name="PressSignOutFromProfile"
+		refimgid="863e213d-03a5-4551-9921-6ccb43998271"
+		refpath="/form[@title='']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="unknown,nativewindow"
+			capname="unknown"
+			id="3ace6fbb-83a1-4a38-945f-1a92084762e5"
+			name="AVLAVView"
+			refimgid="18f0766c-c174-4251-abb8-0dcede9b56f1"
+			refpath="/form[@title='']/element[@class='AVL_AVView']"
+			searchtimeout="30000ms">
+				/form[@title='']/element[@class='AVL_AVView']
+			</item>
+			<item
+			addcaps="button,accessible"
+			capname="button"
+			id="ce3f955c-c322-4acd-88fe-79982df17868"
+			name="Close"
+			refimgid="532a8cce-324e-4c0b-97c5-f43cb1f0987a"
+			refpath="/form[@title='']/titlebar/button[@accessiblename='Close']"
+			searchtimeout="30000ms">
+				/form[@title='']/?/?/button[@accessiblename='Close']
+			</item>
+			<basepath>
+				/form[@title='']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAKNSURBVDhPlZLLa1NBFIdn7r1JrLE21rdplTxr
+bBciSNS60OIDXIitReiioC4rLu1KUUFRUWlLwZXShaJL0bSLgg/wf1DUxmjS5v3OvcnNQxx/Jw+J
+xY2BjzsD+X7nnJlhlQFJlPtlUfbIQt8ti1KfIopu4FKE5jAI1W4QBZtB5HcZRW6nUWR7jSJjNYnM
+DpNIb1sjWHmPLDxG5ncb2FKfgflBwKWwH26FBcEy1mEQxTqOb8Kh8JRL5hmQT1GAjsokuwzsK/A7
+FPYNfHciBISwXgERrGP4xu0KTzpknkZALrUVAdQyqpJEcgDU5fETQ3Hfi+fFiXMjaeyjgOSEXeYp
+BDQ6oACal1puk4MgNDE6nLx5+VL28YP7KvYxO9pvVQdZp8wLyS0I0JyKwHyhphhEyDJY2dvdFVn6
+9LE2fmwog/2f1qk6yCFATW5GgIqTRgDNSWJdBjRzNPDlc23AYk6uljFGHgFaYlOHYHRFGCECKUxi
+U46dHfSm52ZnSg+vXdVWy0B1SbxYD6D7RUCMKpII0C5LvJufr5w/dTI/c+N66f3CQnX29i39yfRU
+5WCvVbNLXHNKXI9vRAA9jsb9NsQz3v3ZN69fVT4sLlaHD3jzTkXKHu/3FO5NXtFfPntaGz08WEJA
+ySHxcqwbAdkek6DHgTlTkxcvqFTxrc9XPdRjzbe1XKC2qTLJQLdJvBK1rBWMniQOhObLPLp7R5+b
+niqPHT2i/UMstsugGu1CQHo7OsCfW9UcivSXiFbbxXJTrtk5/xlZjwB6TZDppNXmlw6oCJHm1CGS
+1BKrLRn8CncigF4TPYhEC1wNQSccxyHRQcU2dAial1qOEKgc7jSL8DqzYM2fDYz9B6fBPsaY5TfB
+sWyGfliWRQAAAABJRU5ErkJggg==
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="container,webdocument"
+		capname="webdocument"
+		id="5c192983-ce27-4b7e-861d-19ed930493b2"
+		isrooted="True"
+		name="AdobeID"
+		refpath="/dom[@domain='auth.services.adobe.com']"
+		searchtimeout="30000ms"
+		usecache="False">
+			<item
+			addcaps="unknown,webelement,inputtag"
+			capname="inputtag"
+			id="604aed11-588a-4998-9d87-b14affd4c37c"
+			name="EmailPageEmailField"
+			refimgid="e1880ce1-267a-4a15-bae8-44053f27e614"
+			refpath="/dom[@domain='auth.services.adobe.com']//input[#'EmailPage-EmailField']"
+			searchtimeout="30000ms">
+				/dom[@domain='auth.services.adobe.com']//input[#'EmailPage-EmailField']
+			</item>
+			<item
+			addcaps="unknown,webelement,divtag"
+			capname="divtag"
+			id="d6e18532-16c4-434c-b51e-11b1f66bf0ba"
+			name="Route"
+			refimgid="bbc4541b-e9af-4161-a027-bbe1b5206bbc"
+			refpath="/dom[@domain='auth.services.adobe.com']//div[#'App']/div/div/section/section/section/div"
+			searchtimeout="30000ms">
+				/dom[@domain='auth.services.adobe.com']//div[#'App']//section/section/?/?/div
+			</item>
+			<basepath>
+				/dom[@domain='auth.services.adobe.com']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAGHRFWHRTb2Z0d2FyZQBQYWlu
+dC5ORVQgdjMuMzE3g3eGAAACKklEQVQ4T43R20vTcRjHcS/6G4Kgyy6KKKjwJogIDBJjIBUt2YVD
+yoGVmWUWzozMC92YaWqeSE1s0dThOtjBWUlKkMxDudXU1lCU6XSepzu82+/nvNrX6APP1e95Xt/f
+9/vEbaWh7TO1xi4qmjspfWKhuLqN++VGtLqn5BTVk1lQRbRVHGn4X8nTNclYtD020smBYDjaHhsJ
+cIxPbY8YIr+9viEGgqGwDBxLvixXfGJaLCLdedUfCwRDyPDKWoiF5SAuT0AMSA+2BXhXZqmydFBu
+bkfbmkFpayPOyQW8CwHs7jUxIN1NOkEa1llLGA7bsYX7KbTd4GiuiUuVbxhyzTMwuiwGpFX5lkLU
+dFjJ+55Mw5yGGpsRtX6Kk2Ue9jWewtBRx9eRJTEg7XnWF+TBo25SzUmo3inINLjIKoPD1QXsbNvN
+6fxr9Az5xIDm9kOm5gLce+xEW/aF1BYlCmshSr2PMxm32HV3B8ez0/jQPycG1NklTMxsUGUaQaMD
+lc7EIcse4vXJJF18xX7FVUpq6njd5xUDKVeKcE2v4xib52bxIAdza9mbf4CE9OscUZo5q3nO295p
+zD0zYuBcegHOCb+8KpvDi6G5hRMX8klIKaei6b083PdjCdNHjxhQqO/gcPsj77CB27PO2OQa9j+r
+8tq+/VyODC/yaXBxeyBRlUPv8Dzt3eO86PrNs85Rml7+ot7soLrVTqVpsypMTjGQcD5L/vC/tTkV
+F/cXNG0rDkAnVtkAAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="container,webdocument"
+		capname="webdocument"
+		id="b9446456-d3a8-4735-9e26-e170de263e42"
+		isrooted="True"
+		name="Blank"
+		refimgid="2f6aba38-44a1-4c6f-bc17-2de7e0df9f17"
+		refpath="/dom[@domain='']"
+		searchtimeout="30000ms"
+		usecache="False">
+			<basepath>
+				/dom[@domain='']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAGHRFWHRTb2Z0d2FyZQBQYWlu
+dC5ORVQgdjMuMzE3g3eGAAACKklEQVQ4T43R20vTcRjHcS/6G4Kgyy6KKKjwJogIDBJjIBUt2YVD
+yoGVmWUWzozMC92YaWqeSE1s0dThOtjBWUlKkMxDudXU1lCU6XSepzu82+/nvNrX6APP1e95Xt/f
+9/vEbaWh7TO1xi4qmjspfWKhuLqN++VGtLqn5BTVk1lQRbRVHGn4X8nTNclYtD020smBYDjaHhsJ
+cIxPbY8YIr+9viEGgqGwDBxLvixXfGJaLCLdedUfCwRDyPDKWoiF5SAuT0AMSA+2BXhXZqmydFBu
+bkfbmkFpayPOyQW8CwHs7jUxIN1NOkEa1llLGA7bsYX7KbTd4GiuiUuVbxhyzTMwuiwGpFX5lkLU
+dFjJ+55Mw5yGGpsRtX6Kk2Ue9jWewtBRx9eRJTEg7XnWF+TBo25SzUmo3inINLjIKoPD1QXsbNvN
+6fxr9Az5xIDm9kOm5gLce+xEW/aF1BYlCmshSr2PMxm32HV3B8ez0/jQPycG1NklTMxsUGUaQaMD
+lc7EIcse4vXJJF18xX7FVUpq6njd5xUDKVeKcE2v4xib52bxIAdza9mbf4CE9OscUZo5q3nO295p
+zD0zYuBcegHOCb+8KpvDi6G5hRMX8klIKaei6b083PdjCdNHjxhQqO/gcPsj77CB27PO2OQa9j+r
+8tq+/VyODC/yaXBxeyBRlUPv8Dzt3eO86PrNs85Rml7+ot7soLrVTqVpsypMTjGQcD5L/vC/tTkV
+F/cXNG0rDkAnVtkAAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="ed020dac-9d58-49da-94ba-bf350c7176cd"
+		isrooted="True"
+		name="SampleFilePdfAdobeAcrobatProDCT"
+		refimgid="baeb22bb-608c-4c45-9e21-29bbfeda4f27"
+		refpath="/form[@title='SampleFile.pdf - Adobe Acrobat Pro DC (Trunk)-05/24/2020']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="unknown,nativewindow"
+			capname="unknown"
+			id="fb0aa0aa-2063-4d6e-b0c3-5a3317a66898"
+			name="ShareButton"
+			refimgid="bb32ea30-66da-4bee-bb8f-66bddede53ca"
+			refpath="/form[@title>'SampleFile.pdf - Adobe Acrobat']/element[@class='AVL_AVView' and @instance='1']/element[@class='AVL_AVView' and @instance='0']/element[@class='AVL_AVView' and @instance='0']"
+			searchtimeout="30000ms">
+				<image
+				guid="2022eca7-c472-442b-bc40-d70776a155a7"
+				name="Screenshot1">
+					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
+				</image>
+				/form[@title&gt;'SampleFile.pdf - Adobe Acrobat']/element[@instance='1']/element[@instance='0']/element[@instance='0']
+			</item>
+			<item
+			addcaps="unknown,nativewindow"
+			capname="unknown"
+			id="35f1303b-5bbf-4ecf-8c66-05a867fff6e2"
+			name="Emailfield"
+			refimgid="2d772543-233d-404d-8878-ef6281b7f463"
+			refpath="/form[@title='SampleFile.pdf (Opened from Adobe Document Cloud) - Adobe Acrobat Pro DC (Trunk)-05/24/2020']/element[@class='AVL_AVView' and @instance='1']/element[@class='AVL_AVView' and @instance='0']/element[@class='AVL_AVView' and @instance='4']/element[@class='AVL_AVView' and @instance='0']/element[@class='AVL_AVView' and @instance='0']/element[@class='AVL_AVView' and @instance='0']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'SampleFile.pdf - Adobe Acrobat']/element[@instance='1']/?/?/element[@instance='4']/element[@instance='0']/element[@instance='0']/element[@instance='0']
+			</item>
+			<item
+			addcaps="unknown,nativewindow"
+			capname="unknown"
+			id="68bc3b9e-422d-4e6a-a0af-007190e73e31"
+			name="DoneButton"
+			refimgid="dba6d909-3fd1-4e8e-b05b-170b42c6abb7"
+			refpath="/form[@title>'SampleFile.pdf (Opened from']/element[@class='AVL_AVView' and @instance='1']/element[@class='AVL_AVView' and @instance='0']/element[@class='AVL_AVView' and @instance='1']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'SampleFile.pdf - Adobe Acrobat']/element[@instance='1']/element[@instance='0']/element[@instance='1']
+			</item>
+			<item
+			addcaps="button,accessible"
+			capname="button"
+			id="8514c70f-49f5-4079-8302-aee4d5ab96a9"
+			name="ShareFileForViewingOrCommentingAnd"
+			refimgid="62d66b25-f69e-470e-bc90-f4b5e8ff9364"
+			refpath="/form[@title>'SampleFile.pdf - Adobe Acrobat']/element[@class='AVL_AVView' and @instance='1']/element[@class='AVL_AVView' and @instance='0']/element[@class='AVL_AVView' and @instance='0']/toolbar[1]/container[3]/container[2]/button[@accessiblename>'Share file for viewing or']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'SampleFile.pdf - Adobe Acrobat']/element[@instance='1']/element[@instance='0']/element[@instance='0']/toolbar[1]/container[3]/container[2]/button[@accessiblename&gt;'Share file for viewing or']
+			</item>
+			<folder
+			addcaps="toolbar,accessible"
+			capname="toolbar"
+			id="fecf148b-6692-4cf7-a702-21366e76c5c2"
+			isrooted="True"
+			name="ToolBar"
+			refpath="/form[@title='SampleFile.pdf - Adobe Acrobat Pro DC (Trunk)-05/27/2020']/element[@class='AVL_AVView' and @instance='1']/element[@class='AVL_AVView' and @instance='0']/element[@class='AVL_AVView' and @instance='0']/toolbar[1]"
+			searchtimeout="30000ms"
+			usecache="False">
+				<item
+				addcaps="menuitem,accessible"
+				capname="menuitem"
+				id="b3077bf8-47d8-4b09-a7b5-0c3c739465a8"
+				name="SomeMenuItem"
+				refimgid="a70f186f-a802-49a6-9645-f92108a4c939"
+				refpath="/form[@title>'SampleFile.pdf - Adobe Acrobat']/container/element[@controlid='1200']/toolbar/menuitem[@accessiblename='🗖']"
+				searchtimeout="30000ms">
+					/form[@title&gt;'SampleFile.pdf - Adobe Acrobat']//toolbar[@accessiblerole='ToolBar']/menuitem[@accessiblename='🗖']
+				</item>
+				<item
+				addcaps="menuitem,accessible"
+				capname="menuitem"
+				id="98b7284d-0286-4a28-a47d-b46d757c079c"
+				name="SomeMenuItem1"
+				refimgid="97de935a-71b1-4af5-a6d0-b10d63bbb8ae"
+				refpath="/form[@title>'SampleFile.pdf - Adobe Acrobat']/container/element[@controlid='1200']/toolbar/menuitem[@accessiblename='🗗']"
+				searchtimeout="30000ms">
+					/form[@title&gt;'SampleFile.pdf - Adobe Acrobat']//toolbar[@accessiblerole='ToolBar']/menuitem[@accessiblename='🗗']
+				</item>
+				<item
+				addcaps="menuitem,accessible"
+				capname="menuitem"
+				id="b1ee9508-f35e-4a97-bff8-d4f5a4881b66"
+				name="SomeMenuItem2"
+				refimgid="7b59a9e9-a70e-438e-9fe0-719c29008d84"
+				refpath="/form[@title>'SampleFile.pdf - Adobe Acrobat']/container/element[@controlid='1200']/toolbar/menuitem[@accessiblename='🗙']"
+				searchtimeout="30000ms">
+					/form[@title&gt;'SampleFile.pdf - Adobe Acrobat']//toolbar[@accessiblerole='ToolBar']/menuitem[@accessiblename='🗙']
+				</item>
+				<basepath>
+					/form[@title&gt;'SampleFile.pdf - Adobe Acrobat']//toolbar[@accessiblerole='ToolBar']
+				</basepath>
+			</folder>
+			<item
+			addcaps="toolbar,accessible"
+			capname="toolbar"
+			id="2647b994-a1c7-43ce-ba73-3c3797c94b0a"
+			name="ToolBar1"
+			refimgid="95add3d9-295b-4875-b0b5-eb7687099289"
+			refpath="/form[@title>'SampleFile.pdf - Adobe Acrobat']/container/element[@controlid='1100']/toolbar[@accessiblerole='ToolBar']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'SampleFile.pdf - Adobe Acrobat']/container[@controlid='1000']/element[@controlid='1100']/toolbar[@accessiblerole='ToolBar']
+			</item>
+			<basepath>
+				/form[@title&gt;'SampleFile.pdf - Adobe Acrobat']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAD/SURBVDhPY4CB//KiBv8VxD78VxT7jxWD5IBq
+oMoxwT9FsQs/Z0/f9/Xr1//Y8M8JPe/+KUl+xmkIyBZsGpHxj4Vzv+E0hBgDQBjsEkXRB1BtCIBu
+wPezp///9bAH08ji3148B4cJVBsCoBvwT1f5/7dbN8GGIIuDMFEG/Opu/f/P2vD/74JMFHEQJsqA
+H5vW//+THA02CFkchIkyAGQzyL8gr/wN9QVjkKEEDfi5dCFYMcj5IM0gcVg4gMQIGgALPJhiEAbZ
+DDLk54zJhA0ARRtIM0wxNozXAGIwdgOAmQXkf2wakDFIDXYDgOn7n5rUN5AkQSwvmgDVRilgYAAA
+ZqQtL10mB5EAAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<item
+		addcaps="unknown,nativewindow"
+		capname="unknown"
+		id="08456260-131a-4fd7-bc39-50a152ba358a"
+		name="ShareButtonClick"
+		refimgid="564f2bfd-b687-499f-a65a-9b99c92fd975"
+		searchtimeout="30000ms">
+			/form[@title&gt;'SampleFile.pdf - Adobe Acrobat']/element[@instance='1']/element[@instance='0']/element[@instance='0']
+		</item>
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="3ce5c783-f83a-45c4-b2ef-e9984fea4ed1"
+		isrooted="True"
+		name="SampleFilePdfOpenedFromAdobeDocume"
+		refimgid="915d3fe0-e7e7-45f1-9e20-6f9b2821ef99"
+		refpath="/form[@title='SampleFile.pdf (Opened from Adobe Document Cloud) - Adobe Acrobat Pro DC (Trunk)-05/24/2020']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="unknown,nativewindow"
+			capname="unknown"
+			id="929c83bc-b1ea-4911-8840-e30b557c17d7"
+			name="AVLAVView"
+			refimgid="5671129c-6c60-466f-a5d7-c1286e4dfb4a"
+			refpath="/form[@title='SampleFile.pdf (Opened from Adobe Document Cloud) - Adobe Acrobat Pro DC (Trunk)-05/24/2020']/element[@class='AVL_AVView' and @instance='0']/element[@class='AVL_AVView' and @instance='0']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'SampleFile.pdf (Opened from']/element[@instance='0']/element[@instance='0']
+			</item>
+			<item
+			addcaps="unknown,nativewindow"
+			capname="unknown"
+			id="11e95966-aa97-4d4c-9d59-8e08ab122839"
+			name="CopySharedLink"
+			refimgid="5c097567-7729-4e5c-9625-2318c758cec3"
+			refpath="/form[@title='SampleFile.pdf (Opened from Adobe Document Cloud) - Adobe Acrobat Pro DC (Trunk)-05/27/2020']/element[@class='AVL_AVView' and @instance='1']/element[@class='AVL_AVView' and @instance='0']/element[@class='AVL_AVView' and @instance='4']/element[@class='AVL_AVView' and @instance='0']/element[@class='AVL_AVView' and @instance='0']/element[@class='AVL_AVView' and @instance='0']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'SampleFile.pdf (Opened from']/element[@instance='1']/?/?/element[@instance='4']/element[@instance='0']/element[@instance='0']/element[@instance='0']
+			</item>
+			<item
+			addcaps="unknown,nativewindow"
+			capname="unknown"
+			id="ced54d1c-a75a-4e04-9372-706cb2cf69dd"
+			name="DoneButton"
+			refimgid="d2eebe70-0ea5-48c5-92dc-2fc35c90c5bf"
+			refpath="/form[@title>'SampleFile.pdf (Opened from']/element[@class='AVL_AVView' and @instance='1']/element[@class='AVL_AVView' and @instance='0']/element[@class='AVL_AVView' and @instance='1']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'SampleFile.pdf (Opened from']/element[@instance='1']/element[@instance='0']/element[@instance='1']
+			</item>
+			<item
+			addcaps="unknown,nativewindow"
+			capname="unknown"
+			id="5883ae7d-d40d-41c1-9b77-84c57c918dbb"
+			name="AVLAVView1"
+			refimgid="b6e52c21-e231-4416-adaf-2ad1430d56b4"
+			refpath="/form[@title>'SampleFile.pdf (Opened from']/element[@class='AVL_AVView' and @instance='0']"
+			searchtimeout="30000ms">
+				/form[@title&gt;'SampleFile.pdf (Opened from']/element[@instance='0']
+			</item>
+			<basepath>
+				/form[@title&gt;'SampleFile.pdf (Opened from']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAD/SURBVDhPY4CB//KiBv8VxD78VxT7jxWD5IBq
+oMoxwT9FsQs/Z0/f9/Xr1//Y8M8JPe/+KUl+xmkIyBZsGpHxj4Vzv+E0hBgDQBjsEkXRB1BtCIBu
+wPezp///9bAH08ji3148B4cJVBsCoBvwT1f5/7dbN8GGIIuDMFEG/Opu/f/P2vD/74JMFHEQJsqA
+H5vW//+THA02CFkchIkyAGQzyL8gr/wN9QVjkKEEDfi5dCFYMcj5IM0gcVg4gMQIGgALPJhiEAbZ
+DDLk54zJhA0ARRtIM0wxNozXAGIwdgOAmQXkf2wakDFIDXYDgOn7n5rUN5AkQSwvmgDVRilgYAAA
+ZqQtL10mB5EAAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="container,webdocument"
+		capname="webdocument"
+		id="1775bb76-1993-43fe-b7ca-7fc02ae0d72c"
+		isrooted="True"
+		name="AdobeLicensing"
+		refimgid="53dbc795-4ef2-4dbf-96c1-41807a79ecb8"
+		refpath="/dom[@domain='workflow.licenses.adobe.com']"
+		searchtimeout="30000ms"
+		usecache="False">
+			<item
+			addcaps="unknown,webelement,spantag"
+			capname="spantag"
+			id="cf5cb781-b177-401c-8015-52054cf3ecd5"
+			name="SpanTagOK"
+			refimgid="411e15df-e248-4fe5-b9cb-7331731cdab1"
+			refpath="/dom[@domain='workflow.licenses.adobe.com']//div[#'ngl-page-container']/div[4]/span/span/button/span[@innertext='OK']"
+			searchtimeout="30000ms">
+				/dom[@domain='workflow.licenses.adobe.com']//div[#'ngl-page-container']/div[4]//span[@innertext='OK']
+			</item>
+			<item
+			addcaps="unknown,webelement,spantag"
+			capname="spantag"
+			id="21dc293e-ce1a-4aee-a22e-f3623397b39f"
+			name="SignOut"
+			refimgid="9e9ce886-a331-4175-ad5d-5dfc6133bd0e"
+			refpath="/dom[@domain='workflow.licenses.adobe.com']//div[#'ngl-page-container']/div[4]/span/span/button/span[@innertext='Sign out']"
+			searchtimeout="30000ms">
+				/dom[@domain='workflow.licenses.adobe.com']//div[#'ngl-page-container']/div[4]//span[@innertext='Sign out']
+			</item>
+			<basepath>
+				/dom[@domain='workflow.licenses.adobe.com']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAGHRFWHRTb2Z0d2FyZQBQYWlu
+dC5ORVQgdjMuMzE3g3eGAAACKklEQVQ4T43R20vTcRjHcS/6G4Kgyy6KKKjwJogIDBJjIBUt2YVD
+yoGVmWUWzozMC92YaWqeSE1s0dThOtjBWUlKkMxDudXU1lCU6XSepzu82+/nvNrX6APP1e95Xt/f
+9/vEbaWh7TO1xi4qmjspfWKhuLqN++VGtLqn5BTVk1lQRbRVHGn4X8nTNclYtD020smBYDjaHhsJ
+cIxPbY8YIr+9viEGgqGwDBxLvixXfGJaLCLdedUfCwRDyPDKWoiF5SAuT0AMSA+2BXhXZqmydFBu
+bkfbmkFpayPOyQW8CwHs7jUxIN1NOkEa1llLGA7bsYX7KbTd4GiuiUuVbxhyzTMwuiwGpFX5lkLU
+dFjJ+55Mw5yGGpsRtX6Kk2Ue9jWewtBRx9eRJTEg7XnWF+TBo25SzUmo3inINLjIKoPD1QXsbNvN
+6fxr9Az5xIDm9kOm5gLce+xEW/aF1BYlCmshSr2PMxm32HV3B8ez0/jQPycG1NklTMxsUGUaQaMD
+lc7EIcse4vXJJF18xX7FVUpq6njd5xUDKVeKcE2v4xib52bxIAdza9mbf4CE9OscUZo5q3nO295p
+zD0zYuBcegHOCb+8KpvDi6G5hRMX8klIKaei6b083PdjCdNHjxhQqO/gcPsj77CB27PO2OQa9j+r
+8tq+/VyODC/yaXBxeyBRlUPv8Dzt3eO86PrNs85Rml7+ot7soLrVTqVpsypMTjGQcD5L/vC/tTkV
+F/cXNG0rDkAnVtkAAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>
