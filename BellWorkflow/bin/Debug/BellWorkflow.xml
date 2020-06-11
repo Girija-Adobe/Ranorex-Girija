@@ -174,6 +174,16 @@
             The SomeMenuItem item info.
             </summary>
         </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeAcrobatProDCTrunk05242020AppFolder.AVLAVView3">
+            <summary>
+            The AVLAVView3 item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeAcrobatProDCTrunk05242020AppFolder.AVLAVView3Info">
+            <summary>
+            The AVLAVView3 item info.
+            </summary>
+        </member>
         <member name="T:BellWorkflow.BellWorkflowRepositoryFolders.AcrobatAppFolder">
             <summary>
             The AcrobatAppFolder folder.
@@ -449,6 +459,26 @@
             The Route item info.
             </summary>
         </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeIDAppFolder.Continue">
+            <summary>
+            The Continue item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeIDAppFolder.ContinueInfo">
+            <summary>
+            The Continue item info.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeIDAppFolder.CanvasGrid">
+            <summary>
+            The CanvasGrid item.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeIDAppFolder.CanvasGridInfo">
+            <summary>
+            The CanvasGrid item info.
+            </summary>
+        </member>
         <member name="T:BellWorkflow.BellWorkflowRepositoryFolders.BlankAppFolder">
             <summary>
             The BlankAppFolder folder.
@@ -715,6 +745,45 @@
         <member name="P:BellWorkflow.BellWorkflowRepositoryFolders.AdobeLicensingAppFolder.SignOutInfo">
             <summary>
             The SignOut item info.
+            </summary>
+        </member>
+        <member name="T:BellWorkflow.GitCheckGirija">
+             <summary>
+            The GitCheckGirija recording.
+             </summary>
+        </member>
+        <member name="F:BellWorkflow.GitCheckGirija.repo">
+            <summary>
+            Holds an instance of the BellWorkflowRepository repository.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.GitCheckGirija.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.GitCheckGirija.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:BellWorkflow.GitCheckGirija.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:BellWorkflow.GitCheckGirija.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:BellWorkflow.GitCheckGirija.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="P:BellWorkflow.GitCheckGirija.Instance">
+            <summary>
+            Gets a static instance of this recording.
             </summary>
         </member>
         <member name="T:BellWorkflow.LaunchAcrobat">

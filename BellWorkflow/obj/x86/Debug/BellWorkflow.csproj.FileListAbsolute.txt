@@ -9,3 +9,14 @@ C:\LocalGit\BellWorkflow\BellWorkflow\bin\Debug\Ranorex.Core.Resolver.dll
 C:\LocalGit\BellWorkflow\BellWorkflow\obj\x86\Debug\BellWorkflow.csprojResolveAssemblyReference.cache
 C:\LocalGit\BellWorkflow\BellWorkflow\obj\x86\Debug\BellWorkflow.exe
 C:\LocalGit\BellWorkflow\BellWorkflow\obj\x86\Debug\BellWorkflow.pdb
+C:\LocalGit\MyWork\Ranorex-Girija\BellWorkflow\bin\Debug\BellWorkflow.rxtmg
+C:\LocalGit\MyWork\Ranorex-Girija\BellWorkflow\bin\Debug\BellWorkflow.rxtst
+C:\LocalGit\MyWork\Ranorex-Girija\BellWorkflow\bin\Debug\RepositoryImages\BellWorkflowRepository1d75cf94.rximgres
+C:\LocalGit\MyWork\Ranorex-Girija\BellWorkflow\bin\Debug\BellWorkflow.exe.config
+C:\LocalGit\MyWork\Ranorex-Girija\BellWorkflow\bin\Debug\BellWorkflow.xml
+C:\LocalGit\MyWork\Ranorex-Girija\BellWorkflow\bin\Debug\BellWorkflow.exe
+C:\LocalGit\MyWork\Ranorex-Girija\BellWorkflow\bin\Debug\BellWorkflow.pdb
+C:\LocalGit\MyWork\Ranorex-Girija\BellWorkflow\bin\Debug\Ranorex.Core.Resolver.dll
+C:\LocalGit\MyWork\Ranorex-Girija\BellWorkflow\obj\x86\Debug\BellWorkflow.csprojResolveAssemblyReference.cache
+C:\LocalGit\MyWork\Ranorex-Girija\BellWorkflow\obj\x86\Debug\BellWorkflow.exe
+C:\LocalGit\MyWork\Ranorex-Girija\BellWorkflow\obj\x86\Debug\BellWorkflow.pdb

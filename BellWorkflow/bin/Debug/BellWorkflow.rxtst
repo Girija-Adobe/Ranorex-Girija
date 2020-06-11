@@ -9,6 +9,7 @@
 			type="Recording">
 			</testmodule>
 			<testmodule
+			enabled="False"
 			id="587144ab-7d16-4a0f-9537-c3cd1b35cebb"
 			name="SignOut"
 			ref="cec83af1-ed4c-4882-b6e8-4bfddec2a4dd"
@@ -20,18 +21,21 @@
 			reportlevel="Info;20">
 			</testcase>
 			<testmodule
+			enabled="False"
 			id="6d9a4119-c33e-47b2-b057-30ffc0410fc1"
 			name="SignInUser2"
 			ref="b46c4ae1-8d77-4458-a0f7-f7eb98086aa8"
 			type="Recording">
 			</testmodule>
 			<testmodule
+			enabled="False"
 			id="78b38837-6522-4fce-9df5-c6c872d145e0"
 			name="CheckRequest"
 			ref="e6924be7-8aa4-4d71-9ed0-d18ff00431ce"
 			type="Recording">
 			</testmodule>
 			<testmodule
+			enabled="False"
 			id="7fe3e6b0-250d-40c8-8178-373e0daddf6a"
 			name="OpenFile"
 			ref="84007769-f096-48be-b664-7dfb53641495"
@@ -57,6 +61,7 @@
 			reportwriteinterval="30000ms">
 			</testsuite>
 			<testmodule
+			enabled="False"
 			id="a141944c-3bbb-47a3-afa4-c0e8c2e023bb"
 			name="ShareFile"
 			ref="2d63b32d-f38f-42f9-ae0d-85134f97dc1a"
@@ -79,6 +84,7 @@
 			type="Recording">
 			</testmodule>
 			<testmodule
+			enabled="False"
 			id="fe13fb1f-3221-408d-a870-dfd2cbe09b8e"
 			name="LaunchAcrobat"
 			ref="3a8df644-b210-4783-a5c4-a0bf12e40079"
