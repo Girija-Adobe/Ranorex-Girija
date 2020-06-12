@@ -78,6 +78,7 @@
 			type="Recording">
 			</testmodule>
 			<testmodule
+			enabled="False"
 			id="e0bb10cc-3928-4adc-a7ef-1c99d7fc1499"
 			name="SignOut"
 			ref="cec83af1-ed4c-4882-b6e8-4bfddec2a4dd"

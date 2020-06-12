@@ -11,6 +11,6 @@
       <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
     </ArrayOfString>
   </SerializedValue>
-  <ProjectBrowserState value="[Solution BellWorkflow[BellWorkflow[Reports[]]]]&#xD;&#xA;Solution BellWorkflow&#xD;&#xA;Solution BellWorkflow" />
+  <ProjectBrowserState value="[Solution BellWorkflow[BellWorkflow[]]]&#xD;&#xA;Solution BellWorkflow\BellWorkflow\BellWorkflow.rxtst&#xD;&#xA;Solution BellWorkflow" />
   <StartupProject value="{9E6D1729-8862-4AFB-AB26-4E4502353696}" />
 </Properties>
