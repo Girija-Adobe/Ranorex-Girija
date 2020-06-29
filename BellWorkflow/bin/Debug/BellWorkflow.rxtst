@@ -72,6 +72,7 @@
 			name="TestCase">
 			</testcase>
 			<testmodule
+			enabled="False"
 			id="cae518c3-2a9a-4109-b513-fedbfb696ea6"
 			name="SignIn"
 			ref="c1b5d343-f60c-422d-a448-2e8b18ed776f"
